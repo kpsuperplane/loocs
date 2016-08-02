@@ -20,7 +20,7 @@ background-color:##403f3f;
 font-family:'Source Code Pro', monospace;
 }
 
-h1:after {
+h3:after {
     display: inline-block;
     content: '';
     vertical-align: bottom;
