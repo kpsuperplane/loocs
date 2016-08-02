@@ -1,1 +1,17 @@
-/* css stylesheet for website /*
+/* css stylesheet for website */
+
+body {
+
+}
+.intro {
+
+}
+.schoolTitle {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 100px;
+}
+.programTitle {
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+
+}
