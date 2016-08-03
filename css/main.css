@@ -1,7 +1,7 @@
 /* css stylesheet for website */
 
 body {
-
+background-color:##403f3f;
 }
 .intro {
 
@@ -15,6 +15,23 @@ body {
     font-size: 70px;
 
 }
+<<<<<<< HEAD
+
+.welcomeTitle{
+font-family:'Source Code Pro', monospace;
+}
+
+h3:after {
+    display: inline-block;
+    content: '';
+    vertical-align: bottom;
+    margin: 0 10px;
+    height: 40px;
+    width: 20px;
+    background-color: #ec46b5;
+    animation: blink 1.2s infinite;
+}
+=======
 #cslong{
     position:fixed;
     top:20%;
@@ -56,3 +73,4 @@ body {
     from {transform:rotate(0deg);}
     to {transform:rotate(360deg);}
 }
+>>>>>>> 499af66f2c325db1da06a7df9a3c226e74d6b5ce
